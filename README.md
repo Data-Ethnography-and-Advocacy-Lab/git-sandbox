@@ -17,6 +17,8 @@ Add your name as a contributor to this repo below:
 - Nazifa Ahmed 
 - Add name here...
 
+- Julia Chen
+
 # Table 3
 
 - Naila Moreira
