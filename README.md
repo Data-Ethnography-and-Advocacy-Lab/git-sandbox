@@ -16,6 +16,7 @@ Add your name as a contributor to this repo below:
 - Mel Sosa
 - Nazifa Ahmed 
 - Add name here...
+- Gloria
 
 - Julia Chen
 
